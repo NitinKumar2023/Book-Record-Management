@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/itsyashsehgal28/Book-Record-Management.git)"
+    "url": "(https://github.com/NitinKumar2023/Book-Record-Management.git)"
   },
-  "author": "Yash Sehgal",
+  "author": "Nitin Kumar",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.22"
